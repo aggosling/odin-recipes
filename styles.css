@@ -1,4 +1,27 @@
 * {
-    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-family: Tahoma, Verdana, sans-serif
+}
+
+.recipe {
+    padding: 5px 20px;
+    background-color: aliceblue;
+}
+
+.recipePicture {
+    display: block;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 8px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.shortTitle {
+    margin-bottom: 5px;
+}
+
+.recipeDescription {
+    margin-top: 8px;
 }
